@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QiitaClient</string>
+    <string name="profile_image">profile_image</string>
+    <string name="article_title">記事のタイトル</string>
+    <string name="user_name">ユーザの名前</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="query_text">検索</string>
+</resources>
